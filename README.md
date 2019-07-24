@@ -1,5 +1,6 @@
 # Docker demo and discussion of containerisation and virtualisation
 2019-07-24
+- V&C - Virtualization and Containerization for Developers: <https://www.meetup.com/meetup-group-zBDhCKiU/events/263066409/>
 
 
 # demo
