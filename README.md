@@ -43,22 +43,22 @@
     docker container inspect <container-id>
 
 # stuff to mention
-##AWS Lambda 
--- what?
--- dangers!
+## AWS Lambda 
+- what?
+- dangers!
 
 ## AWS Fargate
--- why?
+- why?
 
 ## AWS Firecracker 
--- what it is?
--- why?
+- what it is?
+- why?
 
 ## microservices
--- circleci.com
--- quay.io
--- zipkin.io
--- EE book: Continuous Delivery in Java <https://www.amazon.co.uk/Continuous-Delivery-Java-Daniel-Bryant/dp/1491986026/ref=sr_1_1?keywords=microservices+abraham&qid=1563964514&s=gateway&sr=8-1>
+- circleci.com
+- quay.io
+- zipkin.io
+- EE book: Continuous Delivery in Java <https://www.amazon.co.uk/Continuous-Delivery-Java-Daniel-Bryant/dp/1491986026/ref=sr_1_1?keywords=microservices+abraham&qid=1563964514&s=gateway&sr=8-1>
 
 
 
